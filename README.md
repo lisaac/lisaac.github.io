@@ -1,1 +1,1 @@
-jump to ick.im
+Jump to [ick.im](http://ick.im)
